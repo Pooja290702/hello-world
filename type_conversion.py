@@ -1,8 +1,3 @@
-x="8"
-y="29"
-z=x+y
-print(z)
-a=int(x)
-b=int(y)
-c=a+b
-print(c)
+lis=[1,2,2,3,4,4,3,5,6,7,6,7,7,6,3,3,8,8,8,9]
+s=set(lis)
+print(s)
