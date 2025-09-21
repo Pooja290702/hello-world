@@ -1,0 +1,9 @@
+d={
+    'name':'pooja',
+    'age':22,
+    'gender':'female',
+    'marks':[1,2,3,4,5],
+    }
+print(d['name'])
+s=d.get('age')
+print(s) 
